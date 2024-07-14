@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AJITH REDDY</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on **Retail & Health Care Projects**
+- 🔭 I’m currently working as **Ruby on Rails Developer** and building large scale web applications.
 
 - 🌱 I’m currently learning **ReactJs**
 
