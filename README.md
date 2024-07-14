@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on **Backend projects**
+- 👯 I’m looking to collaborate on **FrontEnd & Backend projects**
 
 - 💬 Ask me about **Ruby on Rails**
 
 - 📫 How to reach me **ajithreddy478@gmail.com**
 
-- 📄 Know about my experiences [https://ajithreddy478.github.io/ajithreddy-dev/](https://ajithreddy478.github.io/ajithreddy-dev/)**
+- 📄 Know about my experiences [https://ajithreddy478.github.io/ajithreddy-dev/](https://ajithreddy478.github.io/ajithreddy-dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
