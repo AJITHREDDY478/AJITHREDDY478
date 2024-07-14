@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **ajithreddy478@gmail.com**
 
-- 📄 Know about my experiences [https://ajithreddy478.github.io/ajithreddy-dev/](https://ajithreddy478.github.io/ajithreddy-dev/)
-
-- ⚡ Fun fact **Did you know that I've been working with Ruby on Rails for over 2 years? During this time, I've built numerous applications that leverage Rails' powerful framework to streamline development and bring ideas to life quickly and efficiently! 🚀✨**
+- 📄 Know about my experiences [https://ajithreddy478.github.io/ajithreddy-dev/](https://ajithreddy478.github.io/ajithreddy-dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
