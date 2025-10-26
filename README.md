@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 <h1 align="center">Hi 👋, I'm AJITH REDDY</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
