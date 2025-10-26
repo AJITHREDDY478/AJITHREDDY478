@@ -1,4 +1,3 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AJITHREDDY478)
 <h1 align="center">Hi 👋, I'm AJITH REDDY</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
@@ -13,6 +12,8 @@
 - 📫 How to reach me **ajithreddy478@gmail.com**
 
 - 📄 Know about my experiences [https://ajithreddy478.github.io/ajithreddy-dev/](https://ajithreddy478.github.io/ajithreddy-dev/)
+
+- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AJITHREDDY478)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
